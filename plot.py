@@ -94,4 +94,5 @@ class Plot:
         p.title.text_font_size = "22pt"
 
         show(p)
+        
 
